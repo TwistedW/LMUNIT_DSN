@@ -1,3 +1,3 @@
-# LMUNIT-DSN-Tensorflow
+# Latent-MUNIT-DSN-Tensorflow
 ## Author
 Guang Wu
